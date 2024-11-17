@@ -1,0 +1,9 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box
+}
+
+nav {
+  background-image: linear-gradient(to right, purple, rgb(216, 0, 216));
+}
